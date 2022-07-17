@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
  "autoname": "field:course_name",
@@ -74,10 +75,12 @@
   }
  ],
  "image_field": "hero_image",
- "modified": "2020-03-29 12:50:27.677589",
+ "links": [],
+ "modified": "2022-07-16 07:06:12.848437",
  "modified_by": "Administrator",
  "module": "Education",
  "name": "Course",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
@@ -129,9 +132,9 @@
    "write": 1
   }
  ],
- "restrict_to_domain": "Education",
  "search_fields": "course_name",
  "show_name_in_global_search": 1,
  "sort_field": "modified",
- "sort_order": "DESC"
+ "sort_order": "DESC",
+ "states": []
 }
